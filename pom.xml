@@ -21,7 +21,7 @@
 	<version>1.05.2-SNAPSHOT</version>
 
 	<description>A embedded memcache ...</description>
-	<url>http://github.com/flapdoodle-oss/de.flapdoodle.embed.memcached.git</url>
+	<url>http://github.com/chrbayer84/de.flapdoodle.embed.memcached.git</url>
 
 	<licenses>
 		<license>
