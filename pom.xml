@@ -33,9 +33,9 @@
 
 
 	<scm>
-		<connection>scm:git:git@github.com:flapdoodle-oss/de.flapdoodle.embed.memcached.git</connection>
-		<developerConnection>scm:git:git@github.com:flapdoodle-oss/de.flapdoodle.embed.memcached.git</developerConnection>
-		<url>git@github.com:flapdoodle-oss/de.flapdoodle.embed.memcached.git</url>
+		<connection>scm:git:git@github.com:chrbayer84/de.flapdoodle.embed.memcached.git</connection>
+		<developerConnection>scm:git:git@github.com:chrbayer84/de.flapdoodle.embed.memcached.git</developerConnection>
+		<url>git@github.com:chrbayer84/de.flapdoodle.embed.memcached.git</url>
 		<tag>HEAD</tag>
 	</scm>
  
